@@ -1,0 +1,43 @@
+#include <iostream>
+#include "runway.h"
+using namespace std;
+
+class Runway{
+public:
+  Runway(const int num_id, const int land, const int launch): num_id(num_id), landingTime(land), launchingTime(launch){};
+  
+  const bool inUse(){
+    return inUse;
+  }
+
+  void landPlane(const int flight_num){
+    if(inUse){
+      throw "Runway is currently in use!";
+    }
+     cout << "Runway " << num_id << " : landing flight #" << flight_num << ".\n";
+     occupiedCountdown = landingTime;
+     inUse = true;
+  }
+
+  
+  void launchPlane(const int flight_num){
+    if(inUse){
+      throw "Runway is currently in use!";
+    }
+
+    cout << "Runway " << num_id << " : launching flight #" << flight_num << ".\n";
+    occupiedCountdown = launchingTime;
+    inUse = true;
+  }
+
+  void tickOnce(){
+    if(inUse){
+      occupiedCountdown--;
+      if(occupiedCountdown == 0){
+	inUse = false;
+      }
+    }
+  }
+
+ 
+      

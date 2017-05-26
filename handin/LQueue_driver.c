@@ -1,0 +1,144 @@
+/*---------------------------------------------------------------------
+                  Driver program to test the Queue class.
+  ----------------------------------------------------------------------*/
+#include <iostream>
+#include "LQueue.h"
+
+using namespace std;
+	
+
+void print(Queue q)
+{ q.display(cout);}
+
+int main(void)
+{
+   Queue q1;
+   cout << "Queue created.  Empty? " << boolalpha << q1.empty() << endl;
+   cout << "Contents of queue q1 (via  print):\n";
+   print(q1); 
+   cout << endl;
+
+   Queue q2;
+   q2 = q1;
+   cout << "Contents of queue q2 after q2 = q1 (via  print):\n";
+   print(q2); 
+   cout << endl;
+
+   cout << "Queue q2 empty? " << q2.empty() << endl;
+
+   cout << "Front value in q2: " << q2.front() << endl;
+
+   cout << "Queue q2 empty? " << q2.empty() << endl;
+   cout << "Front value in q2?" << endl << q2.front() << endl;
+   cout << "Trying to remove front of q2: " << endl;
+   q2.dequeue();
+
+   cout << "How many elements to enqueue?: \n";
+      int numItems;
+   cin >> numItems;
+   for (int i = 1; i <= numItems; i++) 
+      q1.enqueue(100*i);
+   q2 = q1;
+   cout << "Contents of queue q2 after q2 = q1 (via print)\n";
+   print(q2);
+   cout << "Removing first object in q2: \n";
+   q2.dequeue();
+   cout << "Contents of queue q2: \n";
+   print(q2);
+   cout << "Completed remove and operator= tests, now move_to_front tests: \n";
+//System("PAUSE");
+
+   while(!q2.empty()){
+q2.dequeue();
+}
+   for (int i = 1; i <= 7; i++) 
+      q2.enqueue(100*i);
+   cout <<  "q2 before mmoving object\n";
+   q2.enqueue(500);
+   print(q2);
+   cout << "Moving a middle value - 500 - to front\n";
+   q2.move_to_front(500);
+   cout << "Contents of q2:\n";
+   print(q2);
+   cout << "Moving a front value - 500 - to front\n";
+   q2.move_to_front(500);
+   cout << "Contents of q2:\n";
+   print(q2);
+   cout << "Moving a back value - 700 - to front\n";
+   q2.move_to_front(700);
+   cout << "Contents of q2\n";
+   print(q2);
+   cout << "Moving unfindable value 243 to front \n";
+   q2.move_to_front(243);
+   cout << "Contents of q2: \n";
+   print(q2);
+   cout << "Emptying q2...\n";
+   while(!q2.empty())
+     q2.dequeue();
+   cout << "Is q2 empty yet?: " << boolalpha << q2.empty() << endl;
+   cout << "Now trying to move value 100 to the front: \n";
+   q2.move_to_front(100);
+   cout << "Contents of q2: \n";
+   print(q2);
+   cout << "Completed move to front tests, now merge_two_queues tests: \n";
+
+   
+
+
+ 
+
+   cout << endl << "Testing merge two queues" << endl;
+   int q3_data[] = {7,10,15};
+   int q4_data[] = {1,2,7,16,17};
+   Queue q3,q4;
+   
+   for(int x = 0; x < 3; x++){
+     q3.enqueue(q3_data[x]);
+   }
+
+   for(int x = 0; x < 5; x++){
+     q4.enqueue(q4_data[x]);
+   }
+
+   cout << "q3 before merging: ";
+   print(q3);
+   cout << "q4 before merging: ";
+   print(q4);
+   q1.merge_two_queues(q3,q4);
+   cout << "q3 after merging q3 and q4: \n";
+   print(q3);
+   cout << "q4 after merging q3 and q4: \n";
+   print(q4);
+   cout << "Emptying q3, q4 before merging: \n";
+   while(!q3.empty())
+     q3.dequeue();
+
+   cout << "q4 before merging: \n";
+   print(q4);
+   cout << "q3 after merging: \n";
+   print(q3);
+   cout << "q4 after merging: \n";
+   print(q4);
+
+   cout << "adding elements to q3 \n";
+   for(int x = 0; x < 3; x++){
+     q3.enqueue(q3_data[x]);
+   }
+   cout << "q3 before merging: \n";
+   print(q3);
+   cout << "q4 before merging: \n";
+   print(q4);
+   q3.merge_two_queues(q3, q4);
+   cout << "q3 after merging (q3, q4): \n";
+   print(q3);
+   cout << "q4 after merging (q3, q4) \n";
+   print(q4);
+   cout << "now merging (q4, q3): \n";
+   q3.merge_two_queues(q4,q3);
+   cout << "q3 after merging: \n";
+   print(q3);
+   cout  << "q4 after merging: \n";
+   print(q4);
+   cout << "\n****END OF TESTS****";
+   return 0;
+}

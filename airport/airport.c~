@@ -1,0 +1,175 @@
+#include <cstdlib>
+#include "LQueue.h"
+#include "runway.h"
+#include <ctime>
+#include <iomanip>
+using namespace std;
+
+
+
+void runSimulation(const int, const int, const int, const int, const int, const int, const int);
+void tickOnce(Queue&, Queue&, Runway**, int&, int&, int&, int&, int&, int&);
+void updateQueues(Queue&, Queue&, int&, int, int, int&, int&);
+int runwayAvailable(Runway**, const int);
+
+int main(int argc, char **argv){
+  double LAND_RATE;
+  double TAKE_OFF_RATE;
+  int RUNWAYS;
+  int MAX_TIME;
+  int LAND_SPEED;
+  int TAKE_OFF_SPEED;
+  cout << "Input the number of runways for the airport : ";
+  cin >> RUNWAYS; 
+  cout << "Optimizing runway for : \n\t Time for plane to land (in minutes) : ";
+  cin >> LAND_SPEED;
+  cout << "\t Time for a plane to takeOff (in minutes) : ";
+  cin >> TAKE_OFF_SPEED;
+  cout << "\t Landing rate (planes per hour) : ";
+  cin >> LAND_RATE;
+  cout << "\t TakeOff rate (planes per hour) : ";
+  cin >> TAKE_OFF_RATE;
+  cout << "\t Time to run simulation (in minutes) : ";
+  cin >> MAX_TIME;
+  runSimulation(RUNWAYS,LAND_SPEED, TAKE_OFF_SPEED, LAND_RATE, TAKE_OFF_RATE, MAX_TIME, RUNWAYS);
+}
+
+
+void runSimulation(const int RUNWAYS, const int LAND_SPEED, const int TAKE_OFF_SPEED, const int LAND_RATE, const int TAKE_OFF_RATE, const int MAX_TIME, const int num_runways){
+  //Master counters
+  Runway *runways[num_runways];
+  int minutes = 0;
+  int plane_id = 1000;
+  int inLandQueue = 0;
+  int inLaunchQueue =0;
+  int MAX_IN_LAUNCH = 0;
+  int MAX_IN_LAND = 0;
+  int waitInLand = 0;
+  int waitInLaunch = 0;
+  int planesLaunched = 0;
+  int planesLanded = 0;
+  //Master Queues
+  Queue * landQueue = new Queue();
+  Queue * takeOffQueue = new Queue();
+
+  //populate array with new runways
+  for(int x = 0; x < num_runways; x++){
+    runways[x] = new Runway(x, LAND_SPEED, TAKE_OFF_SPEED);
+  }
+
+  for(int x = 0; x < num_runways; x++){
+    cout << runways[x]->inUse() << endl;
+  }
+  //run simulation
+  while(minutes <= MAX_TIME){
+    cout << "\nTime elapsed: \t" << minutes << endl;
+
+    //Generate planes for the queue
+    updateQueues(*landQueue, *takeOffQueue, plane_id, LAND_RATE, TAKE_OFF_RATE,  inLandQueue, inLaunchQueue);
+    //update MAX IN QUEUE statistics
+    if(inLaunchQueue > MAX_IN_LAUNCH){
+      MAX_IN_LAUNCH = inLaunchQueue;
+    }
+    if(inLandQueue > MAX_IN_LAND){
+      MAX_IN_LAND = inLandQueue;
+    }
+    tickOnce(*landQueue, *takeOffQueue, runways, inLandQueue, inLaunchQueue, waitInLand, waitInLaunch, planesLanded, planesLaunched);
+    for(int x = 0; x < num_runways; x++){
+      runways[x]->tickOnce();
+    }
+    cout << "There are " << inLandQueue << " planes still waiting to land\n";
+    cout << "There are " << inLaunchQueue << " planes still waiting to launch\n";
+    minutes++;
+  }
+
+  cout.setf(ios::left);
+  cout << endl << "Simulation has completed." << endl;
+  cout << "\n\n STATISTICS: \n\n";
+  cout << setw(30) << "\t Planes Landed: " << planesLanded << endl;
+  cout << setw(30) << "\t Planes Launched: " << planesLaunched << endl;
+  cout << setw(30) << "\t Max In Land Queue: " << MAX_IN_LAND << endl;
+  cout << setw(30) << "\t Max In Launch Queue: " << MAX_IN_LAUNCH << endl;
+  cout << setw(30) << "\t Average Land Wait Time: " << (float) waitInLand/planesLanded << endl;
+  cout << setw(30) << "\t Average Launch Wait Time: " << (float) waitInLaunch/planesLaunched << endl;
+ 
+  
+  
+}
+
+void tickOnce(Queue& landQueue, Queue& takeOffQueue, Runway *runways[], int& inLandQueue, int& inLaunchQueue, int& waitInLand, int& waitInLaunch, int& planesLanded, int& planesLaunched){
+  int findRunway = runwayAvailable(runways);
+  while(findRunway >= 0 && !landQueue.empty()){
+    cout << "Runway " << findRunway << " is available \n";
+    Runway *rw = runways[findRunway];
+    rw->landPlane(landQueue.front());
+    landQueue.dequeue();
+    planesLanded++;
+    inLandQueue--;
+    findRunway = runwayAvailable(runways);
+  }
+	  
+  while(findRunway >= 0 && !takeOffQueue.empty()){
+    //runway not in use -> fielding a takeoff
+    runways[findRunway]->launchPlane(takeOffQueue.front());
+    takeOffQueue.dequeue();
+    planesLaunched++;
+    inLaunchQueue--;
+    findRunway = runwayAvailable(runways);
+  }
+     
+  if(!takeOffQueue.empty()){
+    //still planes inside LaunchQueue
+    waitInLaunch += inLaunchQueue;
+  }
+
+  if(!landQueue.empty()){
+    //still planes inside LandQueue;
+    waitInLand += inLandQueue;
+  }
+  
+  if(findRunway < 0){
+    cout << "All runways are now occupied\n";
+    /* for(int x = 0; x < RUNWAYS; x++){ */
+    /*   cout << "Runway " << x << " is in use?  " << boolalpha <<  runways[x]->inUse() << endl;} */  
+  }      
+}
+
+
+void updateQueues(Queue& landQueue, Queue& launchQueue, int& plane_id, int LAND_RATE, int TAKE_OFF_RATE, int& inLandQueue, int& inLaunchQueue){
+  Queue * temp = new Queue();
+  double d = ((float) rand() / RAND_MAX);
+  double e = ((float) rand() / RAND_MAX);
+  while(d < (TAKE_OFF_RATE/60.0)){
+    temp->enqueue(plane_id);
+    cout << "Plane # " << plane_id << " has requested takeoff" << endl;
+    inLaunchQueue++;
+    ++plane_id;
+    d = ((float) rand() / RAND_MAX);
+  }
+  launchQueue.merge_two_queues(launchQueue, *temp);
+  
+  while(e < (LAND_RATE/60.0)){
+    temp->enqueue(plane_id);
+    cout << "Plane # " << plane_id << " has requested landing" << endl;
+    inLandQueue++;
+    ++plane_id;
+    e = ((float) rand() / RAND_MAX);
+  }
+  landQueue.merge_two_queues(landQueue, *temp);
+  delete temp;
+}
+
+//returns index of first available runway, otherwise return -1
+int runwayAvailable(Runway *rws[], const int num_runways){
+  for(int i = 0; i < num_runways; i++){
+    if(!(rws[i]->inUse())){
+      return i;
+    }
+  }
+  return -1;
+}
+  
+  
+    
+  
+  

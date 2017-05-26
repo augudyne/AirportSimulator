@@ -1,0 +1,71 @@
+Queue created.  Empty? true
+Contents of queue q1 (via  print):
+
+
+Contents of queue q2 after q2 = q1 (via  print):
+
+
+Queue q2 empty? true
+Front value in q2: 0
+Queue q2 empty? true
+Front value in q2?
+0
+Trying to remove front of q2: 
+How many elements to enqueue?: 
+Contents of queue q2 after q2 = q1 (via print)
+100  200  300  400  500  600  700  800  900  1000  
+Removing first object in q2: 
+Contents of queue q2: 
+200  300  400  500  600  700  800  900  1000  
+Completed remove and operator= tests, now move_to_front tests: 
+q2 before mmoving object
+100  200  300  400  500  600  700  500  
+Moving a middle value - 500 - to front
+Contents of q2:
+500  100  200  300  400  600  700  500  
+Moving a front value - 500 - to front
+Contents of q2:
+500  100  200  300  400  600  700  500  
+Moving a back value - 700 - to front
+Contents of q2
+700  500  100  200  300  400  600  500  
+Moving unfindable value 243 to front 
+Contents of q2: 
+700  500  100  200  300  400  600  500  
+Emptying q2...
+Is q2 empty yet?: true
+Now trying to move value 100 to the front: 
+Contents of q2: 
+
+Completed move to front tests, now merge_two_queues tests: 
+
+Testing merge two queues
+q3 before merging: 7  10  15  
+q4 before merging: 1  2  7  16  17  
+q3 after merging q3 and q4: 
+1  2  7  7  10  15  16  17  
+q4 after merging q3 and q4: 
+
+Emptying q3, q4 before merging: 
+q4 before merging: 
+
+q3 after merging: 
+
+q4 after merging: 
+
+adding elements to q3 
+q3 before merging: 
+7  10  15  
+q4 before merging: 
+
+q3 after merging (q3, q4): 
+7  10  15  
+q4 after merging (q3, q4) 
+
+now merging (q4, q3): 
+q3 after merging: 
+
+q4 after merging: 
+7  10  15  
+
+****END OF TESTS****

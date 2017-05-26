@@ -1,0 +1,2550 @@
+Verbose output -- default false -- ? (y/n): Input the number of runways for the airport : Optimizing runway for : 
+	 Time for plane to land (in minutes) : 	 Time for a plane to takeOff (in minutes) : 	 Landing rate (planes per hour) : 	 TakeOff rate (planes per hour) : 	 Time to run simulation (in minutes) : Time elapsed: 	0
+Randomly generated float: 0.105704 is less than 0.583333
+Plane # 1000 has requested takeoff
+Randomly generated float: 0.427291 is less than 0.583333
+Plane # 1001 has requested takeoff
+Randomly generated float: 0.144793 is less than 0.583333
+Plane # 1002 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.669419 is larger than 0.583333
+Randomly generated float: 0.549294 is less than 0.583333
+Plane # 1003 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.658232 is larger than 0.583333
+Runway 0 is available 
+	 Runway 0 : landing flight #1003.
+Runway 1 is available 
+	 Runway 1 : launching flight #1000.
+Runway 2 is available 
+	 Runway 2 : launching flight #1001.
+Runway 3 is available 
+	 Runway 3 : launching flight #1002.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	1
+Randomly generated float: 0.379297 is less than 0.583333
+Plane # 1004 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.831825 is larger than 0.583333
+Randomly generated float: 0.547135 is less than 0.583333
+Plane # 1005 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.913586 is larger than 0.583333
+Runway 4 is available 
+	 Runway 4 : landing flight #1005.
+Runway 5 is available 
+	 Runway 5 : launching flight #1004.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	2
+Randomly generated float: 0.200874 is less than 0.583333
+Plane # 1006 has requested takeoff
+Randomly generated float: 0.40378 is less than 0.583333
+Plane # 1007 has requested takeoff
+Randomly generated float: 0.546981 is less than 0.583333
+Plane # 1008 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.812268 is larger than 0.583333
+Randomly generated float: 0.227051 is less than 0.583333
+Plane # 1009 has requested landing
+Randomly generated float: 0.126152 is less than 0.583333
+Plane # 1010 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.596278 is larger than 0.583333
+Runway 6 is available 
+	 Runway 6 : landing flight #1009.
+Runway 7 is available 
+	 Runway 7 : landing flight #1010.
+Runway 8 is available 
+	 Runway 8 : launching flight #1006.
+Runway 9 is available 
+	 Runway 9 : launching flight #1007.
+Runway 10 is available 
+	 Runway 10 : launching flight #1008.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	3
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.896051 is larger than 0.583333
+Randomly generated float: 0.106501 is less than 0.583333
+Plane # 1011 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.690441 is larger than 0.583333
+Runway 11 is available 
+	 Runway 11 : landing flight #1011.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	4
+Randomly generated float: 0.0898449 is less than 0.583333
+Plane # 1012 has requested takeoff
+Randomly generated float: 0.0708369 is less than 0.583333
+Plane # 1013 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.908057 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.62642 is larger than 0.583333
+Runway 12 is available 
+	 Runway 12 : launching flight #1012.
+Runway 13 is available 
+	 Runway 13 : launching flight #1013.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	5
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.953219 is larger than 0.583333
+Randomly generated float: 0.20443 is less than 0.583333
+Plane # 1014 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.621064 is larger than 0.583333
+Runway 0 is available 
+	 Runway 0 : landing flight #1014.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	6
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.98953 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.810769 is larger than 0.583333
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	7
+Randomly generated float: 0.00586003 is less than 0.583333
+Plane # 1015 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.965446 is larger than 0.583333
+Randomly generated float: 0.264923 is less than 0.583333
+Plane # 1016 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.966764 is larger than 0.583333
+Runway 1 is available 
+	 Runway 1 : landing flight #1016.
+Runway 2 is available 
+	 Runway 2 : launching flight #1015.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	8
+Randomly generated float: 0.390628 is less than 0.583333
+Plane # 1017 has requested takeoff
+Randomly generated float: 0.135012 is less than 0.583333
+Plane # 1018 has requested takeoff
+Randomly generated float: 0.504678 is less than 0.583333
+Plane # 1019 has requested takeoff
+Randomly generated float: 0.504568 is less than 0.583333
+Plane # 1020 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.886181 is larger than 0.583333
+Randomly generated float: 0.469469 is less than 0.583333
+Plane # 1021 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.86205 is larger than 0.583333
+Runway 3 is available 
+	 Runway 3 : landing flight #1021.
+Runway 4 is available 
+	 Runway 4 : launching flight #1017.
+Runway 5 is available 
+	 Runway 5 : launching flight #1018.
+Runway 6 is available 
+	 Runway 6 : launching flight #1019.
+Runway 7 is available 
+	 Runway 7 : launching flight #1020.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	9
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.903125 is larger than 0.583333
+Randomly generated float: 0.231236 is less than 0.583333
+Plane # 1022 has requested landing
+Randomly generated float: 0.212778 is less than 0.583333
+Plane # 1023 has requested landing
+Randomly generated float: 0.201518 is less than 0.583333
+Plane # 1024 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.991653 is larger than 0.583333
+Runway 8 is available 
+	 Runway 8 : landing flight #1022.
+Runway 9 is available 
+	 Runway 9 : landing flight #1023.
+Runway 10 is available 
+	 Runway 10 : landing flight #1024.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	10
+Randomly generated float: 0.136514 is less than 0.583333
+Plane # 1025 has requested takeoff
+Randomly generated float: 0.239716 is less than 0.583333
+Plane # 1026 has requested takeoff
+Randomly generated float: 0.148008 is less than 0.583333
+Plane # 1027 has requested takeoff
+Randomly generated float: 0.0343526 is less than 0.583333
+Plane # 1028 has requested takeoff
+Randomly generated float: 0.296278 is less than 0.583333
+Plane # 1029 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.963282 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.78472 is larger than 0.583333
+Runway 0 is available 
+	 Runway 0 : launching flight #1025.
+Runway 11 is available 
+	 Runway 11 : launching flight #1026.
+Runway 14 is available 
+	 Runway 14 : launching flight #1027.
+Runway 15 is available 
+	 Runway 15 : launching flight #1028.
+Runway 16 is available 
+	 Runway 16 : launching flight #1029.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	11
+Randomly generated float: 0.519832 is less than 0.583333
+Plane # 1030 has requested takeoff
+Randomly generated float: 0.17557 is less than 0.583333
+Plane # 1031 has requested takeoff
+Randomly generated float: 0.242712 is less than 0.583333
+Plane # 1032 has requested takeoff
+Randomly generated float: 0.316671 is less than 0.583333
+Plane # 1033 has requested takeoff
+Randomly generated float: 0.441536 is less than 0.583333
+Plane # 1034 has requested takeoff
+Randomly generated float: 0.280777 is less than 0.583333
+Plane # 1035 has requested takeoff
+Randomly generated float: 0.580896 is less than 0.583333
+Plane # 1036 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.662324 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.924513 is larger than 0.583333
+Runway 12 is available 
+	 Runway 12 : launching flight #1030.
+Runway 13 is available 
+	 Runway 13 : launching flight #1031.
+Runway 17 is available 
+	 Runway 17 : launching flight #1032.
+Runway 18 is available 
+	 Runway 18 : launching flight #1033.
+Runway 19 is available 
+	 Runway 19 : launching flight #1034.
+Runway 20 is available 
+	 Runway 20 : launching flight #1035.
+Runway 21 is available 
+	 Runway 21 : launching flight #1036.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	12
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.945618 is larger than 0.583333
+Randomly generated float: 0.492016 is less than 0.583333
+Plane # 1037 has requested landing
+Randomly generated float: 0.5674 is less than 0.583333
+Plane # 1038 has requested landing
+Randomly generated float: 0.340852 is less than 0.583333
+Plane # 1039 has requested landing
+Randomly generated float: 0.296812 is less than 0.583333
+Plane # 1040 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.588513 is larger than 0.583333
+Runway 1 is available 
+	 Runway 1 : landing flight #1037.
+Runway 22 is available 
+	 Runway 22 : landing flight #1038.
+Runway 23 is available 
+	 Runway 23 : landing flight #1039.
+Runway 24 is available 
+	 Runway 24 : landing flight #1040.
+All runways are now occupied
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	13
+Randomly generated float: 0.531856 is less than 0.583333
+Plane # 1041 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.652087 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.99485 is larger than 0.583333
+Runway 3 is available 
+	 Runway 3 : launching flight #1041.
+All runways are now occupied
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	14
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.805526 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.684678 is larger than 0.583333
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	15
+Randomly generated float: 0.377768 is less than 0.583333
+Plane # 1042 has requested takeoff
+Randomly generated float: 0.264105 is less than 0.583333
+Plane # 1043 has requested takeoff
+Randomly generated float: 0.408978 is less than 0.583333
+Plane # 1044 has requested takeoff
+Randomly generated float: 0.330252 is less than 0.583333
+Plane # 1045 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.595904 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.907043 is larger than 0.583333
+Runway 2 is available 
+	 Runway 2 : launching flight #1042.
+Runway 4 is available 
+	 Runway 4 : launching flight #1043.
+Runway 5 is available 
+	 Runway 5 : launching flight #1044.
+Runway 6 is available 
+	 Runway 6 : launching flight #1045.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	16
+Randomly generated float: 0.00908674 is less than 0.583333
+Plane # 1046 has requested takeoff
+Randomly generated float: 0.0496531 is less than 0.583333
+Plane # 1047 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.981236 is larger than 0.583333
+Randomly generated float: 0.360933 is less than 0.583333
+Plane # 1048 has requested landing
+Randomly generated float: 0.575124 is less than 0.583333
+Plane # 1049 has requested landing
+Randomly generated float: 0.451924 is less than 0.583333
+Plane # 1050 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.669465 is larger than 0.583333
+Runway 7 is available 
+	 Runway 7 : landing flight #1048.
+Runway 8 is available 
+	 Runway 8 : landing flight #1049.
+Runway 9 is available 
+	 Runway 9 : landing flight #1050.
+Runway 10 is available 
+	 Runway 10 : launching flight #1046.
+All runways are now occupied
+There are 0 planes still waiting to land
+There are 1 planes still waiting to launch
+
+Time elapsed: 	17
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.698052 is larger than 0.583333
+Randomly generated float: 0.439899 is less than 0.583333
+Plane # 1051 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.780808 is larger than 0.583333
+Runway 0 is available 
+	 Runway 0 : landing flight #1051.
+Runway 1 is available 
+	 Runway 1 : launching flight #1047.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	18
+Randomly generated float: 0.156481 is less than 0.583333
+Plane # 1052 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.60307 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.905579 is larger than 0.583333
+Runway 11 is available 
+	 Runway 11 : launching flight #1052.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	19
+Randomly generated float: 0.00781567 is less than 0.583333
+Plane # 1053 has requested takeoff
+Randomly generated float: 0.102959 is less than 0.583333
+Plane # 1054 has requested takeoff
+Randomly generated float: 0.325946 is less than 0.583333
+Plane # 1055 has requested takeoff
+Randomly generated float: 0.3733 is less than 0.583333
+Plane # 1056 has requested takeoff
+Randomly generated float: 0.082984 is less than 0.583333
+Plane # 1057 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.933355 is larger than 0.583333
+Randomly generated float: 0.421015 is less than 0.583333
+Plane # 1058 has requested landing
+Randomly generated float: 0.247589 is less than 0.583333
+Plane # 1059 has requested landing
+Randomly generated float: 0.417536 is less than 0.583333
+Plane # 1060 has requested landing
+Randomly generated float: 0.0906322 is less than 0.583333
+Plane # 1061 has requested landing
+Randomly generated float: 0.086378 is less than 0.583333
+Plane # 1062 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.749887 is larger than 0.583333
+Runway 12 is available 
+	 Runway 12 : landing flight #1058.
+Runway 13 is available 
+	 Runway 13 : landing flight #1059.
+Runway 14 is available 
+	 Runway 14 : landing flight #1060.
+Runway 15 is available 
+	 Runway 15 : landing flight #1061.
+Runway 16 is available 
+	 Runway 16 : landing flight #1062.
+Runway 17 is available 
+	 Runway 17 : launching flight #1053.
+Runway 18 is available 
+	 Runway 18 : launching flight #1054.
+Runway 19 is available 
+	 Runway 19 : launching flight #1055.
+Runway 20 is available 
+	 Runway 20 : launching flight #1056.
+Runway 21 is available 
+	 Runway 21 : launching flight #1057.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	20
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.593051 is larger than 0.583333
+Randomly generated float: 0.315154 is less than 0.583333
+Plane # 1063 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.662435 is larger than 0.583333
+Runway 3 is available 
+	 Runway 3 : landing flight #1063.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	21
+Randomly generated float: 0.168668 is less than 0.583333
+Plane # 1064 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.667532 is larger than 0.583333
+Randomly generated float: 0.544547 is less than 0.583333
+Plane # 1065 has requested landing
+Randomly generated float: 0.489626 is less than 0.583333
+Plane # 1066 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.591293 is larger than 0.583333
+Runway 7 is available 
+	 Runway 7 : landing flight #1065.
+Runway 8 is available 
+	 Runway 8 : landing flight #1066.
+Runway 9 is available 
+	 Runway 9 : launching flight #1064.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	22
+Randomly generated float: 0.32119 is less than 0.583333
+Plane # 1067 has requested takeoff
+Randomly generated float: 0.545579 is less than 0.583333
+Plane # 1068 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.791694 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.75471 is larger than 0.583333
+Runway 0 is available 
+	 Runway 0 : launching flight #1067.
+Runway 2 is available 
+	 Runway 2 : launching flight #1068.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	23
+Randomly generated float: 0.290578 is less than 0.583333
+Plane # 1069 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.9066 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.91634 is larger than 0.583333
+Runway 4 is available 
+	 Runway 4 : launching flight #1069.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	24
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.823731 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.782451 is larger than 0.583333
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	25
+Randomly generated float: 0.221624 is less than 0.583333
+Plane # 1070 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.894898 is larger than 0.583333
+Randomly generated float: 0.446352 is less than 0.583333
+Plane # 1071 has requested landing
+Randomly generated float: 0.472058 is less than 0.583333
+Plane # 1072 has requested landing
+Randomly generated float: 0.363328 is less than 0.583333
+Plane # 1073 has requested landing
+Randomly generated float: 0.367189 is less than 0.583333
+Plane # 1074 has requested landing
+Randomly generated float: 0.470701 is less than 0.583333
+Plane # 1075 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.601197 is larger than 0.583333
+Runway 1 is available 
+	 Runway 1 : landing flight #1071.
+Runway 3 is available 
+	 Runway 3 : landing flight #1072.
+Runway 5 is available 
+	 Runway 5 : landing flight #1073.
+Runway 6 is available 
+	 Runway 6 : landing flight #1074.
+Runway 10 is available 
+	 Runway 10 : landing flight #1075.
+Runway 11 is available 
+	 Runway 11 : launching flight #1070.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	26
+Randomly generated float: 0.493553 is less than 0.583333
+Plane # 1076 has requested takeoff
+Randomly generated float: 0.255619 is less than 0.583333
+Plane # 1077 has requested takeoff
+Randomly generated float: 0.332738 is less than 0.583333
+Plane # 1078 has requested takeoff
+Randomly generated float: 0.233634 is less than 0.583333
+Plane # 1079 has requested takeoff
+Randomly generated float: 0.11804 is less than 0.583333
+Plane # 1080 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.846639 is larger than 0.583333
+Randomly generated float: 0.559414 is less than 0.583333
+Plane # 1081 has requested landing
+Randomly generated float: 0.0972688 is less than 0.583333
+Plane # 1082 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.848712 is larger than 0.583333
+Runway 7 is available 
+	 Runway 7 : landing flight #1081.
+Runway 8 is available 
+	 Runway 8 : landing flight #1082.
+Runway 12 is available 
+	 Runway 12 : launching flight #1076.
+Runway 13 is available 
+	 Runway 13 : launching flight #1077.
+Runway 14 is available 
+	 Runway 14 : launching flight #1078.
+Runway 15 is available 
+	 Runway 15 : launching flight #1079.
+Runway 16 is available 
+	 Runway 16 : launching flight #1080.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	27
+Randomly generated float: 0.547451 is less than 0.583333
+Plane # 1083 has requested takeoff
+Randomly generated float: 0.156243 is less than 0.583333
+Plane # 1084 has requested takeoff
+Randomly generated float: 0.488754 is less than 0.583333
+Plane # 1085 has requested takeoff
+Randomly generated float: 0.155678 is less than 0.583333
+Plane # 1086 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.671044 is larger than 0.583333
+Randomly generated float: 0.434531 is less than 0.583333
+Plane # 1087 has requested landing
+Randomly generated float: 0.465712 is less than 0.583333
+Plane # 1088 has requested landing
+Randomly generated float: 0.424471 is less than 0.583333
+Plane # 1089 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.961832 is larger than 0.583333
+Runway 17 is available 
+	 Runway 17 : landing flight #1087.
+Runway 18 is available 
+	 Runway 18 : landing flight #1088.
+Runway 19 is available 
+	 Runway 19 : landing flight #1089.
+Runway 20 is available 
+	 Runway 20 : launching flight #1083.
+Runway 21 is available 
+	 Runway 21 : launching flight #1084.
+Runway 22 is available 
+	 Runway 22 : launching flight #1085.
+Runway 23 is available 
+	 Runway 23 : launching flight #1086.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	28
+Randomly generated float: 0.267886 is less than 0.583333
+Plane # 1090 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.80583 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.74477 is larger than 0.583333
+Runway 9 is available 
+	 Runway 9 : launching flight #1090.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	29
+Randomly generated float: 0.273546 is less than 0.583333
+Plane # 1091 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.927271 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.696303 is larger than 0.583333
+Runway 0 is available 
+	 Runway 0 : launching flight #1091.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	30
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.607263 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.847569 is larger than 0.583333
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	31
+Randomly generated float: 0.262386 is less than 0.583333
+Plane # 1092 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.63991 is larger than 0.583333
+Randomly generated float: 0.15635 is less than 0.583333
+Plane # 1093 has requested landing
+Randomly generated float: 0.116912 is less than 0.583333
+Plane # 1094 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.633804 is larger than 0.583333
+Runway 1 is available 
+	 Runway 1 : landing flight #1093.
+Runway 2 is available 
+	 Runway 2 : landing flight #1094.
+Runway 3 is available 
+	 Runway 3 : launching flight #1092.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	32
+Randomly generated float: 0.105334 is less than 0.583333
+Plane # 1095 has requested takeoff
+Randomly generated float: 0.524518 is less than 0.583333
+Plane # 1096 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.937742 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.814565 is larger than 0.583333
+Runway 4 is available 
+	 Runway 4 : launching flight #1095.
+Runway 5 is available 
+	 Runway 5 : launching flight #1096.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	33
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.603023 is larger than 0.583333
+Randomly generated float: 0.251407 is less than 0.583333
+Plane # 1097 has requested landing
+Randomly generated float: 0.107901 is less than 0.583333
+Plane # 1098 has requested landing
+Randomly generated float: 0.292818 is less than 0.583333
+Plane # 1099 has requested landing
+Randomly generated float: 0.0657536 is less than 0.583333
+Plane # 1100 has requested landing
+Randomly generated float: 0.0491005 is less than 0.583333
+Plane # 1101 has requested landing
+Randomly generated float: 0.446445 is less than 0.583333
+Plane # 1102 has requested landing
+Randomly generated float: 0.0207424 is less than 0.583333
+Plane # 1103 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.685231 is larger than 0.583333
+Runway 6 is available 
+	 Runway 6 : landing flight #1097.
+Runway 7 is available 
+	 Runway 7 : landing flight #1098.
+Runway 8 is available 
+	 Runway 8 : landing flight #1099.
+Runway 10 is available 
+	 Runway 10 : landing flight #1100.
+Runway 11 is available 
+	 Runway 11 : landing flight #1101.
+Runway 12 is available 
+	 Runway 12 : landing flight #1102.
+Runway 13 is available 
+	 Runway 13 : landing flight #1103.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	34
+Randomly generated float: 0.217727 is less than 0.583333
+Plane # 1104 has requested takeoff
+Randomly generated float: 0.0940674 is less than 0.583333
+Plane # 1105 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.86358 is larger than 0.583333
+Randomly generated float: 0.272347 is less than 0.583333
+Plane # 1106 has requested landing
+Randomly generated float: 0.173452 is less than 0.583333
+Plane # 1107 has requested landing
+Randomly generated float: 0.467354 is less than 0.583333
+Plane # 1108 has requested landing
+Randomly generated float: 0.578585 is less than 0.583333
+Plane # 1109 has requested landing
+Randomly generated float: 0.341327 is less than 0.583333
+Plane # 1110 has requested landing
+Randomly generated float: 0.148432 is less than 0.583333
+Plane # 1111 has requested landing
+Randomly generated float: 0.00999432 is less than 0.583333
+Plane # 1112 has requested landing
+Randomly generated float: 0.19764 is less than 0.583333
+Plane # 1113 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.687377 is larger than 0.583333
+Runway 14 is available 
+	 Runway 14 : landing flight #1106.
+Runway 15 is available 
+	 Runway 15 : landing flight #1107.
+Runway 16 is available 
+	 Runway 16 : landing flight #1108.
+Runway 17 is available 
+	 Runway 17 : landing flight #1109.
+Runway 18 is available 
+	 Runway 18 : landing flight #1110.
+Runway 19 is available 
+	 Runway 19 : landing flight #1111.
+Runway 20 is available 
+	 Runway 20 : landing flight #1112.
+Runway 21 is available 
+	 Runway 21 : landing flight #1113.
+Runway 22 is available 
+	 Runway 22 : launching flight #1104.
+Runway 23 is available 
+	 Runway 23 : launching flight #1105.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	35
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.780066 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.848767 is larger than 0.583333
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	36
+Randomly generated float: 0.382902 is less than 0.583333
+Plane # 1114 has requested takeoff
+Randomly generated float: 0.563101 is less than 0.583333
+Plane # 1115 has requested takeoff
+Randomly generated float: 0.331852 is less than 0.583333
+Plane # 1116 has requested takeoff
+Randomly generated float: 0.0304846 is less than 0.583333
+Plane # 1117 has requested takeoff
+Randomly generated float: 0.256047 is less than 0.583333
+Plane # 1118 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.856923 is larger than 0.583333
+Randomly generated float: 0.449383 is less than 0.583333
+Plane # 1119 has requested landing
+Randomly generated float: 0.55787 is less than 0.583333
+Plane # 1120 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.935792 is larger than 0.583333
+Runway 0 is available 
+	 Runway 0 : landing flight #1119.
+Runway 1 is available 
+	 Runway 1 : landing flight #1120.
+Runway 2 is available 
+	 Runway 2 : launching flight #1114.
+Runway 9 is available 
+	 Runway 9 : launching flight #1115.
+Runway 24 is available 
+	 Runway 24 : launching flight #1116.
+All runways are now occupied
+There are 0 planes still waiting to land
+There are 2 planes still waiting to launch
+
+Time elapsed: 	37
+Randomly generated float: 0.581571 is less than 0.583333
+Plane # 1121 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.986867 is larger than 0.583333
+Randomly generated float: 0.0472972 is less than 0.583333
+Plane # 1122 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.918234 is larger than 0.583333
+All runways are now occupied
+There are 1 planes still waiting to land
+There are 3 planes still waiting to launch
+
+Time elapsed: 	38
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.818368 is larger than 0.583333
+Randomly generated float: 0.535688 is less than 0.583333
+Plane # 1123 has requested landing
+Randomly generated float: 0.265958 is less than 0.583333
+Plane # 1124 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.646929 is larger than 0.583333
+Runway 3 is available 
+	 Runway 3 : landing flight #1122.
+Runway 6 is available 
+	 Runway 6 : landing flight #1123.
+Runway 7 is available 
+	 Runway 7 : landing flight #1124.
+Runway 8 is available 
+	 Runway 8 : launching flight #1117.
+Runway 10 is available 
+	 Runway 10 : launching flight #1118.
+Runway 11 is available 
+	 Runway 11 : launching flight #1121.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	39
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.82331 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.746803 is larger than 0.583333
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	40
+Randomly generated float: 0.188238 is less than 0.583333
+Plane # 1125 has requested takeoff
+Randomly generated float: 0.548829 is less than 0.583333
+Plane # 1126 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.836924 is larger than 0.583333
+Randomly generated float: 0.337941 is less than 0.583333
+Plane # 1127 has requested landing
+Randomly generated float: 0.405477 is less than 0.583333
+Plane # 1128 has requested landing
+Randomly generated float: 0.517467 is less than 0.583333
+Plane # 1129 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.8375 is larger than 0.583333
+Runway 4 is available 
+	 Runway 4 : landing flight #1127.
+Runway 5 is available 
+	 Runway 5 : landing flight #1128.
+Runway 12 is available 
+	 Runway 12 : landing flight #1129.
+Runway 13 is available 
+	 Runway 13 : launching flight #1125.
+Runway 14 is available 
+	 Runway 14 : launching flight #1126.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	41
+Randomly generated float: 0.454756 is less than 0.583333
+Plane # 1130 has requested takeoff
+Randomly generated float: 0.486967 is less than 0.583333
+Plane # 1131 has requested takeoff
+Randomly generated float: 0.214641 is less than 0.583333
+Plane # 1132 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.786555 is larger than 0.583333
+Randomly generated float: 0.0506758 is less than 0.583333
+Plane # 1133 has requested landing
+Randomly generated float: 0.361557 is less than 0.583333
+Plane # 1134 has requested landing
+Randomly generated float: 0.00593491 is less than 0.583333
+Plane # 1135 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.617643 is larger than 0.583333
+Runway 0 is available 
+	 Runway 0 : landing flight #1133.
+Runway 1 is available 
+	 Runway 1 : landing flight #1134.
+Runway 15 is available 
+	 Runway 15 : landing flight #1135.
+Runway 16 is available 
+	 Runway 16 : launching flight #1130.
+Runway 17 is available 
+	 Runway 17 : launching flight #1131.
+Runway 18 is available 
+	 Runway 18 : launching flight #1132.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	42
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.633946 is larger than 0.583333
+Randomly generated float: 0.554228 is less than 0.583333
+Plane # 1136 has requested landing
+Randomly generated float: 0.182946 is less than 0.583333
+Plane # 1137 has requested landing
+Randomly generated float: 0.338602 is less than 0.583333
+Plane # 1138 has requested landing
+Randomly generated float: 0.464234 is less than 0.583333
+Plane # 1139 has requested landing
+Randomly generated float: 0.491806 is less than 0.583333
+Plane # 1140 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.76407 is larger than 0.583333
+Runway 19 is available 
+	 Runway 19 : landing flight #1136.
+Runway 20 is available 
+	 Runway 20 : landing flight #1137.
+Runway 21 is available 
+	 Runway 21 : landing flight #1138.
+Runway 22 is available 
+	 Runway 22 : landing flight #1139.
+Runway 23 is available 
+	 Runway 23 : landing flight #1140.
+All runways are now occupied
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	43
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.872113 is larger than 0.583333
+Randomly generated float: 0.117528 is less than 0.583333
+Plane # 1141 has requested landing
+Randomly generated float: 0.23519 is less than 0.583333
+Plane # 1142 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.988327 is larger than 0.583333
+Runway 2 is available 
+	 Runway 2 : landing flight #1141.
+Runway 3 is available 
+	 Runway 3 : landing flight #1142.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	44
+Randomly generated float: 0.541781 is less than 0.583333
+Plane # 1143 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.988802 is larger than 0.583333
+Randomly generated float: 0.0510554 is less than 0.583333
+Plane # 1144 has requested landing
+Randomly generated float: 0.317677 is less than 0.583333
+Plane # 1145 has requested landing
+Randomly generated float: 0.0244455 is less than 0.583333
+Plane # 1146 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.735725 is larger than 0.583333
+Runway 6 is available 
+	 Runway 6 : landing flight #1144.
+Runway 7 is available 
+	 Runway 7 : landing flight #1145.
+Runway 9 is available 
+	 Runway 9 : landing flight #1146.
+Runway 24 is available 
+	 Runway 24 : launching flight #1143.
+All runways are now occupied
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	45
+Randomly generated float: 0.1525 is less than 0.583333
+Plane # 1147 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.838149 is larger than 0.583333
+Randomly generated float: 0.295533 is less than 0.583333
+Plane # 1148 has requested landing
+Randomly generated float: 0.156489 is less than 0.583333
+Plane # 1149 has requested landing
+Randomly generated float: 0.315215 is less than 0.583333
+Plane # 1150 has requested landing
+Randomly generated float: 0.494271 is less than 0.583333
+Plane # 1151 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.748314 is larger than 0.583333
+Runway 4 is available 
+	 Runway 4 : landing flight #1148.
+Runway 5 is available 
+	 Runway 5 : landing flight #1149.
+Runway 8 is available 
+	 Runway 8 : landing flight #1150.
+Runway 10 is available 
+	 Runway 10 : landing flight #1151.
+Runway 11 is available 
+	 Runway 11 : launching flight #1147.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	46
+Randomly generated float: 0.477857 is less than 0.583333
+Plane # 1152 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.651544 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.895392 is larger than 0.583333
+Runway 0 is available 
+	 Runway 0 : launching flight #1152.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	47
+Randomly generated float: 0.0373477 is less than 0.583333
+Plane # 1153 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.852398 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.893463 is larger than 0.583333
+Runway 1 is available 
+	 Runway 1 : launching flight #1153.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	48
+Randomly generated float: 0.558546 is less than 0.583333
+Plane # 1154 has requested takeoff
+Randomly generated float: 0.32984 is less than 0.583333
+Plane # 1155 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.734087 is larger than 0.583333
+Randomly generated float: 0.13487 is less than 0.583333
+Plane # 1156 has requested landing
+Randomly generated float: 0.254525 is less than 0.583333
+Plane # 1157 has requested landing
+Randomly generated float: 0.374879 is less than 0.583333
+Plane # 1158 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.586986 is larger than 0.583333
+Runway 2 is available 
+	 Runway 2 : landing flight #1156.
+Runway 3 is available 
+	 Runway 3 : landing flight #1157.
+Runway 12 is available 
+	 Runway 12 : landing flight #1158.
+Runway 13 is available 
+	 Runway 13 : launching flight #1154.
+Runway 14 is available 
+	 Runway 14 : launching flight #1155.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	49
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.637183 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.673427 is larger than 0.583333
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	50
+Randomly generated float: 0.343897 is less than 0.583333
+Plane # 1159 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.780838 is larger than 0.583333
+Randomly generated float: 0.0900097 is less than 0.583333
+Plane # 1160 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.749755 is larger than 0.583333
+Runway 4 is available 
+	 Runway 4 : landing flight #1160.
+Runway 5 is available 
+	 Runway 5 : launching flight #1159.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	51
+Randomly generated float: 0.39926 is less than 0.583333
+Plane # 1161 has requested takeoff
+Randomly generated float: 0.292124 is less than 0.583333
+Plane # 1162 has requested takeoff
+Randomly generated float: 0.338834 is less than 0.583333
+Plane # 1163 has requested takeoff
+Randomly generated float: 0.192649 is less than 0.583333
+Plane # 1164 has requested takeoff
+Randomly generated float: 0.469049 is less than 0.583333
+Plane # 1165 has requested takeoff
+Randomly generated float: 0.314633 is less than 0.583333
+Plane # 1166 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.979107 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.969166 is larger than 0.583333
+Runway 6 is available 
+	 Runway 6 : launching flight #1161.
+Runway 7 is available 
+	 Runway 7 : launching flight #1162.
+Runway 8 is available 
+	 Runway 8 : launching flight #1163.
+Runway 9 is available 
+	 Runway 9 : launching flight #1164.
+Runway 10 is available 
+	 Runway 10 : launching flight #1165.
+Runway 15 is available 
+	 Runway 15 : launching flight #1166.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	52
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.925019 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.722957 is larger than 0.583333
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	53
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.919706 is larger than 0.583333
+Randomly generated float: 0.411681 is less than 0.583333
+Plane # 1167 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.774306 is larger than 0.583333
+Runway 0 is available 
+	 Runway 0 : landing flight #1167.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	54
+Randomly generated float: 0.16971 is less than 0.583333
+Plane # 1168 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.695902 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.819392 is larger than 0.583333
+Runway 1 is available 
+	 Runway 1 : launching flight #1168.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	55
+Randomly generated float: 0.453026 is less than 0.583333
+Plane # 1169 has requested takeoff
+Randomly generated float: 0.252693 is less than 0.583333
+Plane # 1170 has requested takeoff
+Randomly generated float: 0.221399 is less than 0.583333
+Plane # 1171 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.940488 is larger than 0.583333
+Randomly generated float: 0.0398681 is less than 0.583333
+Plane # 1172 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.898598 is larger than 0.583333
+Runway 2 is available 
+	 Runway 2 : landing flight #1172.
+Runway 3 is available 
+	 Runway 3 : launching flight #1169.
+Runway 4 is available 
+	 Runway 4 : launching flight #1170.
+Runway 11 is available 
+	 Runway 11 : launching flight #1171.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	56
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.600432 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.992523 is larger than 0.583333
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	57
+Randomly generated float: 0.301123 is less than 0.583333
+Plane # 1173 has requested takeoff
+Randomly generated float: 0.3546 is less than 0.583333
+Plane # 1174 has requested takeoff
+Randomly generated float: 0.554436 is less than 0.583333
+Plane # 1175 has requested takeoff
+Randomly generated float: 0.248643 is less than 0.583333
+Plane # 1176 has requested takeoff
+Randomly generated float: 0.391488 is less than 0.583333
+Plane # 1177 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.821616 is larger than 0.583333
+Randomly generated float: 0.559327 is less than 0.583333
+Plane # 1178 has requested landing
+Randomly generated float: 0.243177 is less than 0.583333
+Plane # 1179 has requested landing
+Randomly generated float: 0.173852 is less than 0.583333
+Plane # 1180 has requested landing
+Randomly generated float: 0.213682 is less than 0.583333
+Plane # 1181 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.690829 is larger than 0.583333
+Runway 5 is available 
+	 Runway 5 : landing flight #1178.
+Runway 12 is available 
+	 Runway 12 : landing flight #1179.
+Runway 13 is available 
+	 Runway 13 : landing flight #1180.
+Runway 14 is available 
+	 Runway 14 : landing flight #1181.
+Runway 16 is available 
+	 Runway 16 : launching flight #1173.
+Runway 17 is available 
+	 Runway 17 : launching flight #1174.
+Runway 18 is available 
+	 Runway 18 : launching flight #1175.
+Runway 19 is available 
+	 Runway 19 : launching flight #1176.
+Runway 20 is available 
+	 Runway 20 : launching flight #1177.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	58
+Randomly generated float: 0.468117 is less than 0.583333
+Plane # 1182 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.661476 is larger than 0.583333
+Randomly generated float: 0.504083 is less than 0.583333
+Plane # 1183 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.845655 is larger than 0.583333
+Runway 0 is available 
+	 Runway 0 : landing flight #1183.
+Runway 6 is available 
+	 Runway 6 : launching flight #1182.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	59
+Randomly generated float: 0.417098 is less than 0.583333
+Plane # 1184 has requested takeoff
+Randomly generated float: 0.209179 is less than 0.583333
+Plane # 1185 has requested takeoff
+Randomly generated float: 0.12666 is less than 0.583333
+Plane # 1186 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.622682 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.854361 is larger than 0.583333
+Runway 7 is available 
+	 Runway 7 : launching flight #1184.
+Runway 8 is available 
+	 Runway 8 : launching flight #1185.
+Runway 9 is available 
+	 Runway 9 : launching flight #1186.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	60
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.844829 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.645746 is larger than 0.583333
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	61
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.636015 is larger than 0.583333
+Randomly generated float: 0.427933 is less than 0.583333
+Plane # 1187 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.846087 is larger than 0.583333
+Runway 1 is available 
+	 Runway 1 : landing flight #1187.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	62
+Randomly generated float: 0.361803 is less than 0.583333
+Plane # 1188 has requested takeoff
+Randomly generated float: 0.581632 is less than 0.583333
+Plane # 1189 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.708896 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.895725 is larger than 0.583333
+Runway 2 is available 
+	 Runway 2 : launching flight #1188.
+Runway 3 is available 
+	 Runway 3 : launching flight #1189.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	63
+Randomly generated float: 0.379304 is less than 0.583333
+Plane # 1190 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.937464 is larger than 0.583333
+Randomly generated float: 0.557392 is less than 0.583333
+Plane # 1191 has requested landing
+Randomly generated float: 0.21427 is less than 0.583333
+Plane # 1192 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.738981 is larger than 0.583333
+Runway 0 is available 
+	 Runway 0 : landing flight #1191.
+Runway 4 is available 
+	 Runway 4 : landing flight #1192.
+Runway 5 is available 
+	 Runway 5 : launching flight #1190.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	64
+Randomly generated float: 0.441587 is less than 0.583333
+Plane # 1193 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.997428 is larger than 0.583333
+Randomly generated float: 0.538135 is less than 0.583333
+Plane # 1194 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.811763 is larger than 0.583333
+Runway 10 is available 
+	 Runway 10 : landing flight #1194.
+Runway 11 is available 
+	 Runway 11 : launching flight #1193.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	65
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.870561 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.679156 is larger than 0.583333
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	66
+Randomly generated float: 0.500745 is less than 0.583333
+Plane # 1195 has requested takeoff
+Randomly generated float: 0.181466 is less than 0.583333
+Plane # 1196 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.957646 is larger than 0.583333
+Randomly generated float: 0.31877 is less than 0.583333
+Plane # 1197 has requested landing
+Randomly generated float: 0.00681479 is less than 0.583333
+Plane # 1198 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.950016 is larger than 0.583333
+Runway 1 is available 
+	 Runway 1 : landing flight #1197.
+Runway 6 is available 
+	 Runway 6 : landing flight #1198.
+Runway 7 is available 
+	 Runway 7 : launching flight #1195.
+Runway 8 is available 
+	 Runway 8 : launching flight #1196.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	67
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.764855 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.974569 is larger than 0.583333
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	68
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.636137 is larger than 0.583333
+Randomly generated float: 0.368823 is less than 0.583333
+Plane # 1199 has requested landing
+Randomly generated float: 0.105251 is less than 0.583333
+Plane # 1200 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.872026 is larger than 0.583333
+Runway 0 is available 
+	 Runway 0 : landing flight #1199.
+Runway 4 is available 
+	 Runway 4 : landing flight #1200.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	69
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.615188 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.788488 is larger than 0.583333
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	70
+Randomly generated float: 0.364865 is less than 0.583333
+Plane # 1201 has requested takeoff
+Randomly generated float: 0.250695 is less than 0.583333
+Plane # 1202 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.680847 is larger than 0.583333
+Randomly generated float: 0.204754 is less than 0.583333
+Plane # 1203 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.868593 is larger than 0.583333
+Runway 2 is available 
+	 Runway 2 : landing flight #1203.
+Runway 3 is available 
+	 Runway 3 : launching flight #1201.
+Runway 5 is available 
+	 Runway 5 : launching flight #1202.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	71
+Randomly generated float: 0.459036 is less than 0.583333
+Plane # 1204 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.794963 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.772078 is larger than 0.583333
+Runway 1 is available 
+	 Runway 1 : launching flight #1204.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	72
+Randomly generated float: 0.212117 is less than 0.583333
+Plane # 1205 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.928646 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.890525 is larger than 0.583333
+Runway 6 is available 
+	 Runway 6 : launching flight #1205.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	73
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.989252 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.782008 is larger than 0.583333
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	74
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.630564 is larger than 0.583333
+Randomly generated float: 0.153533 is less than 0.583333
+Plane # 1206 has requested landing
+Randomly generated float: 0.145801 is less than 0.583333
+Plane # 1207 has requested landing
+Randomly generated float: 0.369088 is less than 0.583333
+Plane # 1208 has requested landing
+Randomly generated float: 0.194635 is less than 0.583333
+Plane # 1209 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.711358 is larger than 0.583333
+Runway 0 is available 
+	 Runway 0 : landing flight #1206.
+Runway 4 is available 
+	 Runway 4 : landing flight #1207.
+Runway 7 is available 
+	 Runway 7 : landing flight #1208.
+Runway 8 is available 
+	 Runway 8 : landing flight #1209.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	75
+Randomly generated float: 0.370609 is less than 0.583333
+Plane # 1210 has requested takeoff
+Randomly generated float: 0.111233 is less than 0.583333
+Plane # 1211 has requested takeoff
+Randomly generated float: 0.0771711 is less than 0.583333
+Plane # 1212 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.911542 is larger than 0.583333
+Randomly generated float: 0.125331 is less than 0.583333
+Plane # 1213 has requested landing
+Randomly generated float: 0.0387469 is less than 0.583333
+Plane # 1214 has requested landing
+Randomly generated float: 0.0373384 is less than 0.583333
+Plane # 1215 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.66059 is larger than 0.583333
+Runway 2 is available 
+	 Runway 2 : landing flight #1213.
+Runway 9 is available 
+	 Runway 9 : landing flight #1214.
+Runway 10 is available 
+	 Runway 10 : landing flight #1215.
+Runway 11 is available 
+	 Runway 11 : launching flight #1210.
+Runway 12 is available 
+	 Runway 12 : launching flight #1211.
+Runway 13 is available 
+	 Runway 13 : launching flight #1212.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	76
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.970458 is larger than 0.583333
+Randomly generated float: 0.205055 is less than 0.583333
+Plane # 1216 has requested landing
+Randomly generated float: 0.178121 is less than 0.583333
+Plane # 1217 has requested landing
+Randomly generated float: 0.128864 is less than 0.583333
+Plane # 1218 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.908407 is larger than 0.583333
+Runway 14 is available 
+	 Runway 14 : landing flight #1216.
+Runway 15 is available 
+	 Runway 15 : landing flight #1217.
+Runway 16 is available 
+	 Runway 16 : landing flight #1218.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	77
+Randomly generated float: 0.0786844 is less than 0.583333
+Plane # 1219 has requested takeoff
+Randomly generated float: 0.321079 is less than 0.583333
+Plane # 1220 has requested takeoff
+Randomly generated float: 0.229093 is less than 0.583333
+Plane # 1221 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.805979 is larger than 0.583333
+Randomly generated float: 0.397794 is less than 0.583333
+Plane # 1222 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.742273 is larger than 0.583333
+Runway 3 is available 
+	 Runway 3 : landing flight #1222.
+Runway 5 is available 
+	 Runway 5 : launching flight #1219.
+Runway 17 is available 
+	 Runway 17 : launching flight #1220.
+Runway 18 is available 
+	 Runway 18 : launching flight #1221.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	78
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.64849 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.93653 is larger than 0.583333
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	79
+Randomly generated float: 0.498474 is less than 0.583333
+Plane # 1223 has requested takeoff
+Randomly generated float: 0.364153 is less than 0.583333
+Plane # 1224 has requested takeoff
+Randomly generated float: 0.550404 is less than 0.583333
+Plane # 1225 has requested takeoff
+Randomly generated float: 0.280138 is less than 0.583333
+Plane # 1226 has requested takeoff
+Randomly generated float: 0.145071 is less than 0.583333
+Plane # 1227 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.9453 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.71488 is larger than 0.583333
+Runway 0 is available 
+	 Runway 0 : launching flight #1223.
+Runway 1 is available 
+	 Runway 1 : launching flight #1224.
+Runway 4 is available 
+	 Runway 4 : launching flight #1225.
+Runway 6 is available 
+	 Runway 6 : launching flight #1226.
+Runway 7 is available 
+	 Runway 7 : launching flight #1227.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	80
+Randomly generated float: 0.256687 is less than 0.583333
+Plane # 1228 has requested takeoff
+Randomly generated float: 0.0788791 is less than 0.583333
+Plane # 1229 has requested takeoff
+Randomly generated float: 0.0285301 is less than 0.583333
+Plane # 1230 has requested takeoff
+Randomly generated float: 0.323658 is less than 0.583333
+Plane # 1231 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.623193 is larger than 0.583333
+Randomly generated float: 0.00727803 is less than 0.583333
+Plane # 1232 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.594536 is larger than 0.583333
+Runway 2 is available 
+	 Runway 2 : landing flight #1232.
+Runway 8 is available 
+	 Runway 8 : launching flight #1228.
+Runway 9 is available 
+	 Runway 9 : launching flight #1229.
+Runway 10 is available 
+	 Runway 10 : launching flight #1230.
+Runway 19 is available 
+	 Runway 19 : launching flight #1231.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	81
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.997215 is larger than 0.583333
+Randomly generated float: 0.293891 is less than 0.583333
+Plane # 1233 has requested landing
+Randomly generated float: 0.25131 is less than 0.583333
+Plane # 1234 has requested landing
+Randomly generated float: 0.458734 is less than 0.583333
+Plane # 1235 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.732126 is larger than 0.583333
+Runway 14 is available 
+	 Runway 14 : landing flight #1233.
+Runway 15 is available 
+	 Runway 15 : landing flight #1234.
+Runway 16 is available 
+	 Runway 16 : landing flight #1235.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	82
+Randomly generated float: 0.279662 is less than 0.583333
+Plane # 1236 has requested takeoff
+Randomly generated float: 0.414446 is less than 0.583333
+Plane # 1237 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.979193 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.933826 is larger than 0.583333
+Runway 3 is available 
+	 Runway 3 : launching flight #1236.
+Runway 11 is available 
+	 Runway 11 : launching flight #1237.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	83
+Randomly generated float: 0.41726 is less than 0.583333
+Plane # 1238 has requested takeoff
+Randomly generated float: 0.0829852 is less than 0.583333
+Plane # 1239 has requested takeoff
+Randomly generated float: 0.463301 is less than 0.583333
+Plane # 1240 has requested takeoff
+Randomly generated float: 0.0137282 is less than 0.583333
+Plane # 1241 has requested takeoff
+Randomly generated float: 0.541281 is less than 0.583333
+Plane # 1242 has requested takeoff
+Randomly generated float: 0.0620626 is less than 0.583333
+Plane # 1243 has requested takeoff
+Randomly generated float: 0.191795 is less than 0.583333
+Plane # 1244 has requested takeoff
+Randomly generated float: 0.382548 is less than 0.583333
+Plane # 1245 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.968092 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.872037 is larger than 0.583333
+Runway 12 is available 
+	 Runway 12 : launching flight #1238.
+Runway 13 is available 
+	 Runway 13 : launching flight #1239.
+Runway 20 is available 
+	 Runway 20 : launching flight #1240.
+Runway 21 is available 
+	 Runway 21 : launching flight #1241.
+Runway 22 is available 
+	 Runway 22 : launching flight #1242.
+Runway 23 is available 
+	 Runway 23 : launching flight #1243.
+Runway 24 is available 
+	 Runway 24 : launching flight #1244.
+All runways are now occupied
+There are 0 planes still waiting to land
+There are 1 planes still waiting to launch
+
+Time elapsed: 	84
+Randomly generated float: 0.380647 is less than 0.583333
+Plane # 1246 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.666038 is larger than 0.583333
+Randomly generated float: 0.316335 is less than 0.583333
+Plane # 1247 has requested landing
+Randomly generated float: 0.428033 is less than 0.583333
+Plane # 1248 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.874067 is larger than 0.583333
+Runway 5 is available 
+	 Runway 5 : landing flight #1247.
+Runway 17 is available 
+	 Runway 17 : landing flight #1248.
+Runway 18 is available 
+	 Runway 18 : launching flight #1245.
+All runways are now occupied
+There are 0 planes still waiting to land
+There are 1 planes still waiting to launch
+
+Time elapsed: 	85
+Randomly generated float: 0.101125 is less than 0.583333
+Plane # 1249 has requested takeoff
+Randomly generated float: 0.435612 is less than 0.583333
+Plane # 1250 has requested takeoff
+Randomly generated float: 0.579295 is less than 0.583333
+Plane # 1251 has requested takeoff
+Randomly generated float: 0.31898 is less than 0.583333
+Plane # 1252 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.691608 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.814459 is larger than 0.583333
+Runway 2 is available 
+	 Runway 2 : launching flight #1246.
+All runways are now occupied
+There are 0 planes still waiting to land
+There are 4 planes still waiting to launch
+
+Time elapsed: 	86
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.897771 is larger than 0.583333
+Randomly generated float: 0.101372 is less than 0.583333
+Plane # 1253 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.8534 is larger than 0.583333
+Runway 0 is available 
+	 Runway 0 : landing flight #1253.
+Runway 1 is available 
+	 Runway 1 : launching flight #1249.
+Runway 4 is available 
+	 Runway 4 : launching flight #1250.
+Runway 6 is available 
+	 Runway 6 : launching flight #1251.
+Runway 7 is available 
+	 Runway 7 : launching flight #1252.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	87
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.74827 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.626968 is larger than 0.583333
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	88
+Randomly generated float: 0.376951 is less than 0.583333
+Plane # 1254 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.89522 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.943146 is larger than 0.583333
+Runway 8 is available 
+	 Runway 8 : launching flight #1254.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	89
+Randomly generated float: 0.412057 is less than 0.583333
+Plane # 1255 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.677863 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.902296 is larger than 0.583333
+Runway 3 is available 
+	 Runway 3 : launching flight #1255.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	90
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.756254 is larger than 0.583333
+Randomly generated float: 0.314811 is less than 0.583333
+Plane # 1256 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.858451 is larger than 0.583333
+Runway 5 is available 
+	 Runway 5 : landing flight #1256.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	91
+Randomly generated float: 0.224294 is less than 0.583333
+Plane # 1257 has requested takeoff
+Randomly generated float: 0.16927 is less than 0.583333
+Plane # 1258 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.868544 is larger than 0.583333
+Randomly generated float: 0.105336 is less than 0.583333
+Plane # 1259 has requested landing
+Randomly generated float: 0.183495 is less than 0.583333
+Plane # 1260 has requested landing
+Randomly generated float: 0.373204 is less than 0.583333
+Plane # 1261 has requested landing
+Randomly generated float: 0.177667 is less than 0.583333
+Plane # 1262 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.747161 is larger than 0.583333
+Runway 0 is available 
+	 Runway 0 : landing flight #1259.
+Runway 9 is available 
+	 Runway 9 : landing flight #1260.
+Runway 10 is available 
+	 Runway 10 : landing flight #1261.
+Runway 11 is available 
+	 Runway 11 : landing flight #1262.
+Runway 12 is available 
+	 Runway 12 : launching flight #1257.
+Runway 13 is available 
+	 Runway 13 : launching flight #1258.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	92
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.938022 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.89851 is larger than 0.583333
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	93
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.930967 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.869675 is larger than 0.583333
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	94
+Randomly generated float: 0.0567253 is less than 0.583333
+Plane # 1263 has requested takeoff
+Randomly generated float: 0.347392 is less than 0.583333
+Plane # 1264 has requested takeoff
+Randomly generated float: 0.169 is less than 0.583333
+Plane # 1265 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.825978 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.627998 is larger than 0.583333
+Runway 1 is available 
+	 Runway 1 : launching flight #1263.
+Runway 2 is available 
+	 Runway 2 : launching flight #1264.
+Runway 4 is available 
+	 Runway 4 : launching flight #1265.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	95
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.868805 is larger than 0.583333
+Randomly generated float: 0.213702 is less than 0.583333
+Plane # 1266 has requested landing
+Randomly generated float: 0.0947508 is less than 0.583333
+Plane # 1267 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.641999 is larger than 0.583333
+Runway 5 is available 
+	 Runway 5 : landing flight #1266.
+Runway 6 is available 
+	 Runway 6 : landing flight #1267.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	96
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.700345 is larger than 0.583333
+Randomly generated float: 0.420222 is less than 0.583333
+Plane # 1268 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.969938 is larger than 0.583333
+Runway 0 is available 
+	 Runway 0 : landing flight #1268.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	97
+Randomly generated float: 0.263407 is less than 0.583333
+Plane # 1269 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.67345 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.688863 is larger than 0.583333
+Runway 3 is available 
+	 Runway 3 : launching flight #1269.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	98
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.629405 is larger than 0.583333
+Randomly generated float: 0.0606605 is less than 0.583333
+Plane # 1270 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.858503 is larger than 0.583333
+Runway 7 is available 
+	 Runway 7 : landing flight #1270.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	99
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.923499 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.838581 is larger than 0.583333
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	100
+Randomly generated float: 0.12577 is less than 0.583333
+Plane # 1271 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.963144 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.764881 is larger than 0.583333
+Runway 5 is available 
+	 Runway 5 : launching flight #1271.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	101
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.970215 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.754103 is larger than 0.583333
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	102
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.882226 is larger than 0.583333
+Randomly generated float: 0.208906 is less than 0.583333
+Plane # 1272 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.91024 is larger than 0.583333
+Runway 0 is available 
+	 Runway 0 : landing flight #1272.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	103
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.791543 is larger than 0.583333
+Randomly generated float: 0.385719 is less than 0.583333
+Plane # 1273 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.641917 is larger than 0.583333
+Runway 1 is available 
+	 Runway 1 : landing flight #1273.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	104
+Randomly generated float: 0.38043 is less than 0.583333
+Plane # 1274 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.899234 is larger than 0.583333
+Randomly generated float: 0.582894 is less than 0.583333
+Plane # 1275 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.955994 is larger than 0.583333
+Runway 2 is available 
+	 Runway 2 : landing flight #1275.
+Runway 3 is available 
+	 Runway 3 : launching flight #1274.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	105
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.679511 is larger than 0.583333
+Randomly generated float: 0.271999 is less than 0.583333
+Plane # 1276 has requested landing
+Randomly generated float: 0.343782 is less than 0.583333
+Plane # 1277 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.628467 is larger than 0.583333
+Runway 4 is available 
+	 Runway 4 : landing flight #1276.
+Runway 6 is available 
+	 Runway 6 : landing flight #1277.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	106
+Randomly generated float: 0.206419 is less than 0.583333
+Plane # 1278 has requested takeoff
+Randomly generated float: 0.0969997 is less than 0.583333
+Plane # 1279 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.668255 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.902476 is larger than 0.583333
+Runway 7 is available 
+	 Runway 7 : launching flight #1278.
+Runway 8 is available 
+	 Runway 8 : launching flight #1279.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	107
+Randomly generated float: 0.423745 is less than 0.583333
+Plane # 1280 has requested takeoff
+Randomly generated float: 0.291331 is less than 0.583333
+Plane # 1281 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.881601 is larger than 0.583333
+Randomly generated float: 0.124819 is less than 0.583333
+Plane # 1282 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.761729 is larger than 0.583333
+Runway 0 is available 
+	 Runway 0 : landing flight #1282.
+Runway 5 is available 
+	 Runway 5 : launching flight #1280.
+Runway 9 is available 
+	 Runway 9 : launching flight #1281.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	108
+Randomly generated float: 0.433951 is less than 0.583333
+Plane # 1283 has requested takeoff
+Randomly generated float: 0.103103 is less than 0.583333
+Plane # 1284 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.769832 is larger than 0.583333
+Randomly generated float: 0.212356 is less than 0.583333
+Plane # 1285 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.972408 is larger than 0.583333
+Runway 1 is available 
+	 Runway 1 : landing flight #1285.
+Runway 10 is available 
+	 Runway 10 : launching flight #1283.
+Runway 11 is available 
+	 Runway 11 : launching flight #1284.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	109
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.705197 is larger than 0.583333
+Randomly generated float: 0.227505 is less than 0.583333
+Plane # 1286 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.832111 is larger than 0.583333
+Runway 2 is available 
+	 Runway 2 : landing flight #1286.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	110
+Randomly generated float: 0.328041 is less than 0.583333
+Plane # 1287 has requested takeoff
+Randomly generated float: 0.214889 is less than 0.583333
+Plane # 1288 has requested takeoff
+Randomly generated float: 0.0261215 is less than 0.583333
+Plane # 1289 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.609808 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.704683 is larger than 0.583333
+Runway 4 is available 
+	 Runway 4 : launching flight #1287.
+Runway 6 is available 
+	 Runway 6 : launching flight #1288.
+Runway 12 is available 
+	 Runway 12 : launching flight #1289.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	111
+Randomly generated float: 0.360011 is less than 0.583333
+Plane # 1290 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.918934 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.63222 is larger than 0.583333
+Runway 3 is available 
+	 Runway 3 : launching flight #1290.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	112
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.629988 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.891045 is larger than 0.583333
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	113
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.686039 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.973405 is larger than 0.583333
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	114
+Randomly generated float: 0.4379 is less than 0.583333
+Plane # 1291 has requested takeoff
+Randomly generated float: 0.38137 is less than 0.583333
+Plane # 1292 has requested takeoff
+Randomly generated float: 0.493926 is less than 0.583333
+Plane # 1293 has requested takeoff
+Randomly generated float: 0.385483 is less than 0.583333
+Plane # 1294 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.615357 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.822408 is larger than 0.583333
+Runway 0 is available 
+	 Runway 0 : launching flight #1291.
+Runway 1 is available 
+	 Runway 1 : launching flight #1292.
+Runway 2 is available 
+	 Runway 2 : launching flight #1293.
+Runway 5 is available 
+	 Runway 5 : launching flight #1294.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	115
+Randomly generated float: 0.0352604 is less than 0.583333
+Plane # 1295 has requested takeoff
+Randomly generated float: 0.435857 is less than 0.583333
+Plane # 1296 has requested takeoff
+Randomly generated float: 0.0109195 is less than 0.583333
+Plane # 1297 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.984358 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.849234 is larger than 0.583333
+Runway 7 is available 
+	 Runway 7 : launching flight #1295.
+Runway 8 is available 
+	 Runway 8 : launching flight #1296.
+Runway 9 is available 
+	 Runway 9 : launching flight #1297.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	116
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.918407 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.788408 is larger than 0.583333
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	117
+Randomly generated float: 0.129277 is less than 0.583333
+Plane # 1298 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.860109 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.682473 is larger than 0.583333
+Runway 4 is available 
+	 Runway 4 : launching flight #1298.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	118
+Randomly generated float: 0.255517 is less than 0.583333
+Plane # 1299 has requested takeoff
+Randomly generated float: 0.557445 is less than 0.583333
+Plane # 1300 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.921104 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.91366 is larger than 0.583333
+Runway 3 is available 
+	 Runway 3 : launching flight #1299.
+Runway 6 is available 
+	 Runway 6 : launching flight #1300.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	119
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.847954 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.60331 is larger than 0.583333
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	120
+Randomly generated float: 0.494053 is less than 0.583333
+Plane # 1301 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.933832 is larger than 0.583333
+Randomly generated float: 0.357706 is less than 0.583333
+Plane # 1302 has requested landing
+Randomly generated float: 0.0682779 is less than 0.583333
+Plane # 1303 has requested landing
+Randomly generated float: 0.551702 is less than 0.583333
+Plane # 1304 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.61309 is larger than 0.583333
+Runway 10 is available 
+	 Runway 10 : landing flight #1302.
+Runway 11 is available 
+	 Runway 11 : landing flight #1303.
+Runway 12 is available 
+	 Runway 12 : landing flight #1304.
+Runway 13 is available 
+	 Runway 13 : launching flight #1301.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	121
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.683448 is larger than 0.583333
+Randomly generated float: 0.412346 is less than 0.583333
+Plane # 1305 has requested landing
+Randomly generated float: 0.442474 is less than 0.583333
+Plane # 1306 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.853282 is larger than 0.583333
+Runway 0 is available 
+	 Runway 0 : landing flight #1305.
+Runway 1 is available 
+	 Runway 1 : landing flight #1306.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	122
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.791978 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.784004 is larger than 0.583333
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	123
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.991365 is larger than 0.583333
+Randomly generated float: 0.119472 is less than 0.583333
+Plane # 1307 has requested landing
+Randomly generated float: 0.197732 is less than 0.583333
+Plane # 1308 has requested landing
+Randomly generated float: 0.520262 is less than 0.583333
+Plane # 1309 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.959645 is larger than 0.583333
+Runway 2 is available 
+	 Runway 2 : landing flight #1307.
+Runway 5 is available 
+	 Runway 5 : landing flight #1308.
+Runway 7 is available 
+	 Runway 7 : landing flight #1309.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	124
+Randomly generated float: 0.0910548 is less than 0.583333
+Plane # 1310 has requested takeoff
+Randomly generated float: 0.26402 is less than 0.583333
+Plane # 1311 has requested takeoff
+Randomly generated float: 0.5285 is less than 0.583333
+Plane # 1312 has requested takeoff
+Randomly generated float: 0.232651 is less than 0.583333
+Plane # 1313 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.779559 is larger than 0.583333
+Randomly generated float: 0.364083 is less than 0.583333
+Plane # 1314 has requested landing
+Randomly generated float: 0.107067 is less than 0.583333
+Plane # 1315 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.585772 is larger than 0.583333
+Runway 4 is available 
+	 Runway 4 : landing flight #1314.
+Runway 8 is available 
+	 Runway 8 : landing flight #1315.
+Runway 9 is available 
+	 Runway 9 : launching flight #1310.
+Runway 14 is available 
+	 Runway 14 : launching flight #1311.
+Runway 15 is available 
+	 Runway 15 : launching flight #1312.
+Runway 16 is available 
+	 Runway 16 : launching flight #1313.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	125
+Randomly generated float: 0.310049 is less than 0.583333
+Plane # 1316 has requested takeoff
+Randomly generated float: 0.343596 is less than 0.583333
+Plane # 1317 has requested takeoff
+Randomly generated float: 0.112636 is less than 0.583333
+Plane # 1318 has requested takeoff
+Randomly generated float: 0.126457 is less than 0.583333
+Plane # 1319 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.844749 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.615181 is larger than 0.583333
+Runway 3 is available 
+	 Runway 3 : launching flight #1316.
+Runway 6 is available 
+	 Runway 6 : launching flight #1317.
+Runway 10 is available 
+	 Runway 10 : launching flight #1318.
+Runway 11 is available 
+	 Runway 11 : launching flight #1319.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	126
+Randomly generated float: 0.530632 is less than 0.583333
+Plane # 1320 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.872763 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.950425 is larger than 0.583333
+Runway 0 is available 
+	 Runway 0 : launching flight #1320.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	127
+Randomly generated float: 0.573601 is less than 0.583333
+Plane # 1321 has requested takeoff
+Randomly generated float: 0.507761 is less than 0.583333
+Plane # 1322 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.9213 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.800695 is larger than 0.583333
+Runway 1 is available 
+	 Runway 1 : launching flight #1321.
+Runway 12 is available 
+	 Runway 12 : launching flight #1322.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	128
+Randomly generated float: 0.172686 is less than 0.583333
+Plane # 1323 has requested takeoff
+Randomly generated float: 0.116487 is less than 0.583333
+Plane # 1324 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.674851 is larger than 0.583333
+Randomly generated float: 0.185958 is less than 0.583333
+Plane # 1325 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.959051 is larger than 0.583333
+Runway 2 is available 
+	 Runway 2 : landing flight #1325.
+Runway 5 is available 
+	 Runway 5 : launching flight #1323.
+Runway 7 is available 
+	 Runway 7 : launching flight #1324.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	129
+Randomly generated float: 0.249662 is less than 0.583333
+Plane # 1326 has requested takeoff
+Randomly generated float: 0.130028 is less than 0.583333
+Plane # 1327 has requested takeoff
+Randomly generated float: 0.551544 is less than 0.583333
+Plane # 1328 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.706046 is larger than 0.583333
+Randomly generated float: 0.148191 is less than 0.583333
+Plane # 1329 has requested landing
+Randomly generated float: 0.54771 is less than 0.583333
+Plane # 1330 has requested landing
+Randomly generated float: 0.331757 is less than 0.583333
+Plane # 1331 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.879548 is larger than 0.583333
+Runway 4 is available 
+	 Runway 4 : landing flight #1329.
+Runway 8 is available 
+	 Runway 8 : landing flight #1330.
+Runway 13 is available 
+	 Runway 13 : landing flight #1331.
+Runway 17 is available 
+	 Runway 17 : launching flight #1326.
+Runway 18 is available 
+	 Runway 18 : launching flight #1327.
+Runway 19 is available 
+	 Runway 19 : launching flight #1328.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	130
+Randomly generated float: 0.540533 is less than 0.583333
+Plane # 1332 has requested takeoff
+Randomly generated float: 0.524048 is less than 0.583333
+Plane # 1333 has requested takeoff
+Randomly generated float: 0.297777 is less than 0.583333
+Plane # 1334 has requested takeoff
+Randomly generated float: 0.216342 is less than 0.583333
+Plane # 1335 has requested takeoff
+Randomly generated float: 0.352705 is less than 0.583333
+Plane # 1336 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.681017 is larger than 0.583333
+Randomly generated float: 0.308548 is less than 0.583333
+Plane # 1337 has requested landing
+Randomly generated float: 0.415664 is less than 0.583333
+Plane # 1338 has requested landing
+Randomly generated float: 0.412806 is less than 0.583333
+Plane # 1339 has requested landing
+Randomly generated float: 0.403943 is less than 0.583333
+Plane # 1340 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.773966 is larger than 0.583333
+Runway 20 is available 
+	 Runway 20 : landing flight #1337.
+Runway 21 is available 
+	 Runway 21 : landing flight #1338.
+Runway 22 is available 
+	 Runway 22 : landing flight #1339.
+Runway 23 is available 
+	 Runway 23 : landing flight #1340.
+Runway 24 is available 
+	 Runway 24 : launching flight #1332.
+All runways are now occupied
+There are 0 planes still waiting to land
+There are 4 planes still waiting to launch
+
+Time elapsed: 	131
+Randomly generated float: 0.480142 is less than 0.583333
+Plane # 1341 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.906158 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.668754 is larger than 0.583333
+Runway 9 is available 
+	 Runway 9 : launching flight #1333.
+Runway 14 is available 
+	 Runway 14 : launching flight #1334.
+Runway 15 is available 
+	 Runway 15 : launching flight #1335.
+Runway 16 is available 
+	 Runway 16 : launching flight #1336.
+All runways are now occupied
+There are 0 planes still waiting to land
+There are 1 planes still waiting to launch
+
+Time elapsed: 	132
+Randomly generated float: 0.0576968 is less than 0.583333
+Plane # 1342 has requested takeoff
+Randomly generated float: 0.05389 is less than 0.583333
+Plane # 1343 has requested takeoff
+Randomly generated float: 0.519063 is less than 0.583333
+Plane # 1344 has requested takeoff
+Randomly generated float: 0.469707 is less than 0.583333
+Plane # 1345 has requested takeoff
+Randomly generated float: 0.473743 is less than 0.583333
+Plane # 1346 has requested takeoff
+Randomly generated float: 0.576964 is less than 0.583333
+Plane # 1347 has requested takeoff
+Randomly generated float: 0.0320975 is less than 0.583333
+Plane # 1348 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.653451 is larger than 0.583333
+Randomly generated float: 0.368439 is less than 0.583333
+Plane # 1349 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.786498 is larger than 0.583333
+Runway 3 is available 
+	 Runway 3 : landing flight #1349.
+Runway 6 is available 
+	 Runway 6 : launching flight #1341.
+Runway 10 is available 
+	 Runway 10 : launching flight #1342.
+Runway 11 is available 
+	 Runway 11 : launching flight #1343.
+All runways are now occupied
+There are 0 planes still waiting to land
+There are 5 planes still waiting to launch
+
+Time elapsed: 	133
+Randomly generated float: 0.547834 is less than 0.583333
+Plane # 1350 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.883444 is larger than 0.583333
+Randomly generated float: 0.244928 is less than 0.583333
+Plane # 1351 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.6824 is larger than 0.583333
+Runway 0 is available 
+	 Runway 0 : landing flight #1351.
+Runway 2 is available 
+	 Runway 2 : launching flight #1344.
+All runways are now occupied
+There are 0 planes still waiting to land
+There are 5 planes still waiting to launch
+
+Time elapsed: 	134
+Randomly generated float: 0.557981 is less than 0.583333
+Plane # 1352 has requested takeoff
+Randomly generated float: 0.102906 is less than 0.583333
+Plane # 1353 has requested takeoff
+Randomly generated float: 0.456165 is less than 0.583333
+Plane # 1354 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.620373 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.639814 is larger than 0.583333
+Runway 1 is available 
+	 Runway 1 : launching flight #1345.
+Runway 4 is available 
+	 Runway 4 : launching flight #1346.
+Runway 8 is available 
+	 Runway 8 : launching flight #1347.
+Runway 12 is available 
+	 Runway 12 : launching flight #1348.
+Runway 13 is available 
+	 Runway 13 : launching flight #1350.
+All runways are now occupied
+There are 0 planes still waiting to land
+There are 3 planes still waiting to launch
+
+Time elapsed: 	135
+Randomly generated float: 0.224692 is less than 0.583333
+Plane # 1355 has requested takeoff
+Randomly generated float: 0.323365 is less than 0.583333
+Plane # 1356 has requested takeoff
+Randomly generated float: 0.225253 is less than 0.583333
+Plane # 1357 has requested takeoff
+Randomly generated float: 0.140063 is less than 0.583333
+Plane # 1358 has requested takeoff
+Randomly generated float: 0.131121 is less than 0.583333
+Plane # 1359 has requested takeoff
+Randomly generated float: 0.330684 is less than 0.583333
+Plane # 1360 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.628482 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.960494 is larger than 0.583333
+Runway 5 is available 
+	 Runway 5 : launching flight #1352.
+Runway 7 is available 
+	 Runway 7 : launching flight #1353.
+Runway 20 is available 
+	 Runway 20 : launching flight #1354.
+Runway 21 is available 
+	 Runway 21 : launching flight #1355.
+Runway 22 is available 
+	 Runway 22 : launching flight #1356.
+Runway 23 is available 
+	 Runway 23 : launching flight #1357.
+All runways are now occupied
+There are 0 planes still waiting to land
+There are 3 planes still waiting to launch
+
+Time elapsed: 	136
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.728791 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.992312 is larger than 0.583333
+Runway 17 is available 
+	 Runway 17 : launching flight #1358.
+Runway 18 is available 
+	 Runway 18 : launching flight #1359.
+Runway 19 is available 
+	 Runway 19 : launching flight #1360.
+All runways are now occupied
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	137
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.999092 is larger than 0.583333
+Randomly generated float: 0.50328 is less than 0.583333
+Plane # 1361 has requested landing
+Randomly generated float: 0.0898345 is less than 0.583333
+Plane # 1362 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.694503 is larger than 0.583333
+Runway 3 is available 
+	 Runway 3 : landing flight #1361.
+Runway 24 is available 
+	 Runway 24 : landing flight #1362.
+All runways are now occupied
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	138
+Randomly generated float: 0.00238641 is less than 0.583333
+Plane # 1363 has requested takeoff
+Randomly generated float: 0.175648 is less than 0.583333
+Plane # 1364 has requested takeoff
+Randomly generated float: 0.197342 is less than 0.583333
+Plane # 1365 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.794145 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.922726 is larger than 0.583333
+Runway 0 is available 
+	 Runway 0 : launching flight #1363.
+Runway 9 is available 
+	 Runway 9 : launching flight #1364.
+Runway 14 is available 
+	 Runway 14 : launching flight #1365.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	139
+Randomly generated float: 0.321373 is less than 0.583333
+Plane # 1366 has requested takeoff
+Randomly generated float: 0.124775 is less than 0.583333
+Plane # 1367 has requested takeoff
+Randomly generated float: 0.481014 is less than 0.583333
+Plane # 1368 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.618136 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.832179 is larger than 0.583333
+Runway 6 is available 
+	 Runway 6 : launching flight #1366.
+Runway 10 is available 
+	 Runway 10 : launching flight #1367.
+Runway 11 is available 
+	 Runway 11 : launching flight #1368.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	140
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.913804 is larger than 0.583333
+Randomly generated float: 0.280518 is less than 0.583333
+Plane # 1369 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.683392 is larger than 0.583333
+Runway 2 is available 
+	 Runway 2 : landing flight #1369.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	141
+Randomly generated float: 0.118478 is less than 0.583333
+Plane # 1370 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.774042 is larger than 0.583333
+Randomly generated float: 0.207451 is less than 0.583333
+Plane # 1371 has requested landing
+Randomly generated float: 0.482424 is less than 0.583333
+Plane # 1372 has requested landing
+Randomly generated float: 0.20068 is less than 0.583333
+Plane # 1373 has requested landing
+Randomly generated float: 0.175997 is less than 0.583333
+Plane # 1374 has requested landing
+Randomly generated float: 0.39072 is less than 0.583333
+Plane # 1375 has requested landing
+Randomly generated float: 0.385457 is less than 0.583333
+Plane # 1376 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.714606 is larger than 0.583333
+Runway 1 is available 
+	 Runway 1 : landing flight #1371.
+Runway 4 is available 
+	 Runway 4 : landing flight #1372.
+Runway 8 is available 
+	 Runway 8 : landing flight #1373.
+Runway 12 is available 
+	 Runway 12 : landing flight #1374.
+Runway 13 is available 
+	 Runway 13 : landing flight #1375.
+Runway 15 is available 
+	 Runway 15 : landing flight #1376.
+Runway 16 is available 
+	 Runway 16 : launching flight #1370.
+All runways are now occupied
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	142
+Randomly generated float: 0.507064 is less than 0.583333
+Plane # 1377 has requested takeoff
+Randomly generated float: 0.426933 is less than 0.583333
+Plane # 1378 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.788635 is larger than 0.583333
+Randomly generated float: 0.197008 is less than 0.583333
+Plane # 1379 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.78017 is larger than 0.583333
+Runway 3 is available 
+	 Runway 3 : landing flight #1379.
+Runway 5 is available 
+	 Runway 5 : launching flight #1377.
+Runway 7 is available 
+	 Runway 7 : launching flight #1378.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	143
+Randomly generated float: 0.180418 is less than 0.583333
+Plane # 1380 has requested takeoff
+Randomly generated float: 0.372461 is less than 0.583333
+Plane # 1381 has requested takeoff
+Randomly generated float: 0.231435 is less than 0.583333
+Plane # 1382 has requested takeoff
+Randomly generated float: 0.182475 is less than 0.583333
+Plane # 1383 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.659328 is larger than 0.583333
+Randomly generated float: 0.0900254 is less than 0.583333
+Plane # 1384 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.633196 is larger than 0.583333
+Runway 17 is available 
+	 Runway 17 : landing flight #1384.
+Runway 18 is available 
+	 Runway 18 : launching flight #1380.
+Runway 19 is available 
+	 Runway 19 : launching flight #1381.
+Runway 20 is available 
+	 Runway 20 : launching flight #1382.
+Runway 21 is available 
+	 Runway 21 : launching flight #1383.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	144
+Randomly generated float: 0.463462 is less than 0.583333
+Plane # 1385 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.726437 is larger than 0.583333
+Randomly generated float: 0.172728 is less than 0.583333
+Plane # 1386 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.807016 is larger than 0.583333
+Runway 22 is available 
+	 Runway 22 : landing flight #1386.
+Runway 23 is available 
+	 Runway 23 : launching flight #1385.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	145
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.847617 is larger than 0.583333
+Randomly generated float: 0.0420924 is less than 0.583333
+Plane # 1387 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.7566 is larger than 0.583333
+Runway 0 is available 
+	 Runway 0 : landing flight #1387.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	146
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.900164 is larger than 0.583333
+Randomly generated float: 0.190691 is less than 0.583333
+Plane # 1388 has requested landing
+Randomly generated float: 0.328198 is less than 0.583333
+Plane # 1389 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.940995 is larger than 0.583333
+Runway 1 is available 
+	 Runway 1 : landing flight #1388.
+Runway 2 is available 
+	 Runway 2 : landing flight #1389.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	147
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.642639 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.72209 is larger than 0.583333
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	148
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.799322 is larger than 0.583333
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.837122 is larger than 0.583333
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	149
+Randomly generated float: 0.286661 is less than 0.583333
+Plane # 1390 has requested takeoff
+Randomly generated float: 0.0810846 is less than 0.583333
+Plane # 1391 has requested takeoff
+Randomly generated float: 0.316484 is less than 0.583333
+Plane # 1392 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.722574 is larger than 0.583333
+Randomly generated float: 0.0161978 is less than 0.583333
+Plane # 1393 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.706876 is larger than 0.583333
+Runway 3 is available 
+	 Runway 3 : landing flight #1393.
+Runway 4 is available 
+	 Runway 4 : launching flight #1390.
+Runway 5 is available 
+	 Runway 5 : launching flight #1391.
+Runway 6 is available 
+	 Runway 6 : launching flight #1392.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+Time elapsed: 	150
+Randomly generated float: 0.195725 is less than 0.583333
+Plane # 1394 has requested takeoff
+Randomly generated float: 0.0909942 is less than 0.583333
+Plane # 1395 has requested takeoff
+Randomly generated float: 0.0928316 is less than 0.583333
+Plane # 1396 has requested takeoff
+Randomly generated float: 0.0648911 is less than 0.583333
+Plane # 1397 has requested takeoff
+Randomly generated float: 0.461319 is less than 0.583333
+Plane # 1398 has requested takeoff
+	 *HALT LAUNCH REQUEST GENERATION* Randomly generated float: 0.907264 is larger than 0.583333
+Randomly generated float: 0.576029 is less than 0.583333
+Plane # 1399 has requested landing
+Randomly generated float: 0.0522844 is less than 0.583333
+Plane # 1400 has requested landing
+Randomly generated float: 0.570258 is less than 0.583333
+Plane # 1401 has requested landing
+Randomly generated float: 0.0819722 is less than 0.583333
+Plane # 1402 has requested landing
+	 *HALT LAND REQUEST GENERATION* Randomly generated float: 0.697329 is larger than 0.583333
+Runway 0 is available 
+	 Runway 0 : landing flight #1399.
+Runway 7 is available 
+	 Runway 7 : landing flight #1400.
+Runway 8 is available 
+	 Runway 8 : landing flight #1401.
+Runway 9 is available 
+	 Runway 9 : landing flight #1402.
+Runway 10 is available 
+	 Runway 10 : launching flight #1394.
+Runway 11 is available 
+	 Runway 11 : launching flight #1395.
+Runway 12 is available 
+	 Runway 12 : launching flight #1396.
+Runway 13 is available 
+	 Runway 13 : launching flight #1397.
+Runway 14 is available 
+	 Runway 14 : launching flight #1398.
+There are 0 planes still waiting to land
+There are 0 planes still waiting to launch
+
+
+Simulation has completed.
+
+
+STATISTICS: 
+
+                         Planes Landed: 174
+                       Planes Launched: 229
+                     Max In Land Queue: 8
+                   Max In Launch Queue: 9
+          Average Land Wait Time(mins): 0.00574713
+        Average Launch Wait Time(mins): 0.144105
